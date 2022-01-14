@@ -34,7 +34,8 @@ h1{
     font-family: "notob";
 }
 .blank{
-    margin: 60px 25% 60px;
+    margin: 60px;
+    width: 600px;
 }
 h3{
     margin:30px 0px 5px;
